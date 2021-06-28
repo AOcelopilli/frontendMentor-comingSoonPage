@@ -36,7 +36,7 @@ This is a preview of my result in desktop version.
 
 ### Links
 
-- Solution URL: [Visit](https://your-solution-url.com)
+- Solution URL: [Visit](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-html-css-javascript-grid-9w6eh70Ay)
 - Live Site URL: [Visit](https://aocelopilli.github.io/frontendMentor-comingSoonPage/)
 
 ## My process
